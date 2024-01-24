@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hitchens"
+title: "It's kind of a long story"
 ---
 
 An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
